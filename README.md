@@ -22,7 +22,7 @@ A Claude Code skill is a Markdown file (`SKILL.md`) with YAML frontmatter that d
 Copy any skill into your local skills directory:
 
 ```bash
-git clone https://github.com/iudofia/skills-market.git
+git clone https://github.com/iudofia2026/skills-market.git
 cp -r skills-market/skills/work-logs ~/.claude/skills/
 ```
 
