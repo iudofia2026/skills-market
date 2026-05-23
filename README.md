@@ -10,6 +10,7 @@ A Claude Code skill is a Markdown file (`SKILL.md`) with YAML frontmatter that d
 
 | Skill | What it does |
 |-------|--------------|
+| [`archive-style`](skills/archive-style/SKILL.md) | Reference — date-based path convention (`YYYY/MM-month/DD/`) for archives, screenshots, recordings, notes. |
 | [`work-logs`](skills/work-logs/SKILL.md) | Write a dated work log into `docs/work logs/` in the current repo. |
 | [`screenshot`](skills/screenshot/SKILL.md) | Capture full-page + per-section screenshots of a running localhost page. |
 | [`ss`](skills/ss/SKILL.md) | Find the newest screenshot on Desktop/Downloads, analyze it, then delete it. |
